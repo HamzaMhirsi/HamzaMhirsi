@@ -4,8 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamzamhirsi&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub Trophies" />
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=hamzamhirsi&label=Profile%20views&color=0e75b6&style=flat)
-
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=hamzamhirsi&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
 </p>
