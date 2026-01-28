@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hamzamhirsi&label=Profile%20views&color=0e75b6&style=flat)
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=hamzamhirsi&theme=nord&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=hamzamhirsi&theme=nord&no-frame=true&row=1&column=6)]
 
 
 
