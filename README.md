@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzamhirsi&label=Profile%20views&color=0e75b6&style=flat" alt="hamzamhirsi" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hamzamhirsi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzamhirsi" alt="hamzamhirsi" /></a> </p>
 
 - 🔭 I’m currently working on [Ideal way to secure SMEs company](Will be released soon)
