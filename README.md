@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hamza M'hirsi</h1>
 <h3 align="center">A passionate Ethical Hacker</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzamhirsi&label=Profile%20views&color=0e75b6&style=flat" alt="hamzamhirsi" /> </p>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=hamzamhirsi&label=Profile%20views&color=0e75b6&style=flat)
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=hamzamhirsi&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=HamzaMhirsi&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzamhirsi" alt="hamzamhirsi" /></a> </p>
 
