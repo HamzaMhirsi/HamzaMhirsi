@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=hamzamhirsi&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=hamzamhirsi&theme=nord)" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=hamzamhirsi&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
 </p>
 
 - 🔭 I’m currently working on [Ideal way to secure SMEs company](Will be released soon)
