@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity Market penetration**
 
-- 👯 I’m looking to collaborate on **Red Teaming Mission**
+- 👯 Check my work here https://cyberdebunk.com/, https://lexhak.com/
 
 - 📝 I regularly write articles on [https://hamzamhirsi.medium.com/](https://hamzamhirsi.medium.com/)
 
