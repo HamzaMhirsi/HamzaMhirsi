@@ -9,11 +9,11 @@
 </p>
 
 
-- 🔭 I’m currently working on [Ideal way to secure SMEs company](Will be released soon)
+- 🔭 I’m currently working on this https://cyberdebunk.com/
 
 - 🌱 I’m currently learning **Cybersecurity Market penetration**
 
-- 👯 Check my work here https://cyberdebunk.com/, https://lexhak.com/
+- 👯 Check other related work here https://lexhak.com/, https://comit.dev/, https://captrr.io/, https://www.wraki.ma/
 
 - 📝 I regularly write articles on [https://hamzamhirsi.medium.com/](https://hamzamhirsi.medium.com/)
 
