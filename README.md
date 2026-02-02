@@ -8,8 +8,6 @@
   <img src="https://github-trophies.vercel.app/?username=hamzamhirsi&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
 </p>
 
-
-
 - 🔭 I’m currently working on this https://cyberdebunk.com/
 
 - 🌱 I’m currently learning **Cybersecurity Market penetration**
